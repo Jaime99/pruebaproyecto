@@ -1,3 +1,3 @@
 # pruebaproyecto
-Proyecto de prueba
+## Proyecto de prueba
 Este es un proyecto de prueba en ED.
